@@ -1,0 +1,24 @@
+privilege (权限)
+
+public protected(跨包依然可以通过继承访问) friendly(default 跨包不能访问) private ( 公共保护友好(的)私有 )
+
+
+区分场景: 类内、包内、子类(可视为特殊的内)、其他(类外、包外、非子类)
+
+public protected friendly(default) private ( 公共保护友好(的)私有 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
